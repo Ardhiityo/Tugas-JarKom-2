@@ -3,9 +3,9 @@ body {
 }
 
 iframe {
-    width: 32vmax;
-    height: 19vmax;
-    border: 2px solid #0D6EFD;
+    width: 35vmax;
+    height: 22vmax;
+    border: 3px solid #0D6EFD;
     border-radius: 20px;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
